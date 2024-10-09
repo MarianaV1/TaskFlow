@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0159BB21-B48F-44BF-AEA7-669B7362D45C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Proyecto_Agenda_RamirezBenjamin_MauricioChad</RootNamespace>
+    <AssemblyName>Proyecto_Agenda_RamirezBenjamin_MauricioChad</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Spire.Pdf, Version=8.10.2.0, Culture=neutral, PublicKeyToken=663f351905198cb3, processorArchitecture=MSIL">
+      <HintPath>packages\Spire.PDFViewer.7.10.3\lib\net46\Spire.Pdf.dll</HintPath>
+    </Reference>
+    <Reference Include="Spire.PdfViewer.Asp, Version=7.10.3.0, Culture=neutral, PublicKeyToken=663f351905198cb3, processorArchitecture=MSIL">
+      <HintPath>packages\Spire.PDFViewer.7.10.3\lib\net46\Spire.PdfViewer.Asp.dll</HintPath>
+    </Reference>
+    <Reference Include="Spire.PdfViewer.Forms, Version=7.10.3.0, Culture=neutral, PublicKeyToken=663f351905198cb3, processorArchitecture=MSIL">
+      <HintPath>packages\Spire.PDFViewer.7.10.3\lib\net46\Spire.PdfViewer.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Catalogo.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VenanaMiPerfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VenanaMiPerfil.Designer.cs">
+      <DependentUpon>VenanaMiPerfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaBorrarCita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaBorrarCita.Designer.cs">
+      <DependentUpon>VentanaBorrarCita.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaEliminarContacto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaEliminarContacto.Designer.cs">
+      <DependentUpon>VentanaEliminarContacto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaMostrarCitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaMostrarCitas.Designer.cs">
+      <DependentUpon>VentanaMostrarCitas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaMostrarContactos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaMostrarContactos.Designer.cs">
+      <DependentUpon>VentanaMostrarContactos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaNuevaCita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaNuevaCita.Designer.cs">
+      <DependentUpon>VentanaNuevaCita.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaNuevoContacto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaNuevoContacto.Designer.cs">
+      <DependentUpon>VentanaNuevoContacto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaObservaciones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaObservaciones.Designer.cs">
+      <DependentUpon>VentanaObservaciones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VentanaTutorial2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VentanaTutorial2.Designer.cs">
+      <DependentUpon>VentanaTutorial2.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="VenanaMiPerfil.resx">
+      <DependentUpon>VenanaMiPerfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaBorrarCita.resx">
+      <DependentUpon>VentanaBorrarCita.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaEliminarContacto.resx">
+      <DependentUpon>VentanaEliminarContacto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaMostrarCitas.resx">
+      <DependentUpon>VentanaMostrarCitas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaMostrarContactos.resx">
+      <DependentUpon>VentanaMostrarContactos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaNuevaCita.resx">
+      <DependentUpon>VentanaNuevaCita.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaNuevoContacto.resx">
+      <DependentUpon>VentanaNuevoContacto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaObservaciones.resx">
+      <DependentUpon>VentanaObservaciones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VentanaTutorial2.resx">
+      <DependentUpon>VentanaTutorial2.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TareasPendientesIcono.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eliminartarea.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agregartareaicono.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\agregarcolaboradores.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usericono.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\taskflow logo vector.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\secure.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\repository.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\settings1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

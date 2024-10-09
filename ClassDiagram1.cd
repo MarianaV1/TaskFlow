@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Proyecto_Agenda_RamirezBenjamin_MauricioChad.Form1" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QDBCAFAACigQEAACAgKkIEACQAJBBIAQggQQgIDCAQA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto_Agenda_RamirezBenjamin_MauricioChad.VentanaBorrarCita">
+    <Position X="13.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAQGAAAAAABACEBAAKAAAAAAAAAAAAIAAEEAA=</HashCode>
+      <FileName>VentanaBorrarCita.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto_Agenda_RamirezBenjamin_MauricioChad.VentanaEliminarContacto">
+    <Position X="9.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAACAgAACgAQCAAAACAAEgAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>VentanaEliminarContacto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto_Agenda_RamirezBenjamin_MauricioChad.VentanaMostrarCitas">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAEKABAAAAAACAAAACAIAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>VentanaMostrarCitas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto_Agenda_RamirezBenjamin_MauricioChad.VentanaMostrarContactos">
+    <Position X="7.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAIACAQAQAAAACAAAACABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>VentanaMostrarContactos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto_Agenda_RamirezBenjamin_MauricioChad.VentanaNuevaCita">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAgACAAAGBAAFECAACAAgACACAAAAAAAiAQAgCAAAA=</HashCode>
+      <FileName>VentanaNuevaCita.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto_Agenda_RamirezBenjamin_MauricioChad.VentanaNuevoContacto" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABgAKAHABAIAACAAAACACIAAIAAAAAAAEAAAQA=</HashCode>
+      <FileName>VentanaNuevoContacto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto_Agenda_RamirezBenjamin_MauricioChad.Observacion">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Catalogo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto_Agenda_RamirezBenjamin_MauricioChad.Catalogo">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Catalogo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto_Agenda_RamirezBenjamin_MauricioChad.Trabajador">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgAAAAIAAAgAAAAAAAgAAAAA=</HashCode>
+      <FileName>Catalogo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto_Agenda_RamirezBenjamin_MauricioChad.Miembro">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Catalogo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proyecto_Agenda_RamirezBenjamin_MauricioChad.Tasks">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAABAAAEAAAAA=</HashCode>
+      <FileName>Catalogo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Proyecto_Agenda_RamirezBenjamin_MauricioChad.Rol">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Catalogo.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
