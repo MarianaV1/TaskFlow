@@ -60,6 +60,7 @@ namespace Proyecto_Agenda_RamirezBenjamin_MauricioChad
             {
                 // Mostrar un mensaje de error si el cuadro de texto del asunto está vacío
                 MessageBox.Show("Debe ingresar un asunto.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                throw new ArgumentException("Debe ingresar un asunto.");
             } 
             else
             {

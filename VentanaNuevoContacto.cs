@@ -20,7 +20,7 @@ namespace Proyecto_Agenda_RamirezBenjamin_MauricioChad
             CargarOpcionesRol();
         }
 
-        private void AceptarContacto_Click(object sender, EventArgs e)
+        public void AceptarContacto_Click(object sender, EventArgs e)
         {
             // Obtener los valores de las cajas de texto
             string nombre = txtNuevoNombre.Text;
@@ -35,6 +35,7 @@ namespace Proyecto_Agenda_RamirezBenjamin_MauricioChad
             {
                 // Mostrar un mensaje de error
                 MessageBox.Show("Debe ingresar un nombre, teléfono y correo electrónico.", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                throw new ArgumentException("El nombre no puede estar vacío.");
             }
             else if (telefono.Length >= 15) // Verificar si el teléfono tiene más de 15 caracteres
             {

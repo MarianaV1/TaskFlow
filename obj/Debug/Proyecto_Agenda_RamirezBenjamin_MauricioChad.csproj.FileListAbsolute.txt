@@ -107,3 +107,31 @@ C:\Users\maria\OneDrive\Desktop\Proyecto_Agenda_Ramirez - copia\Proyecto_Agenda_
 C:\Users\maria\OneDrive\Desktop\Proyecto_Agenda_Ramirez - copia\Proyecto_Agenda_RamirezBenjamin_MauricioChad\obj\Debug\Proyecto_Agenda_RamirezBenjamin_MauricioChad.csproj.CopyComplete
 C:\Users\maria\OneDrive\Desktop\Proyecto_Agenda_Ramirez - copia\Proyecto_Agenda_RamirezBenjamin_MauricioChad\obj\Debug\Proyecto_Agenda_RamirezBenjamin_MauricioChad.VentanaTutorial2.resources
 C:\Users\maria\OneDrive\Desktop\Proyecto_Agenda_Ramirez - copia\Proyecto_Agenda_RamirezBenjamin_MauricioChad\obj\Debug\Proyecto_Agenda_RamirezBenjamin_MauricioChad.VentanaObservaciones.resources
+C:\Users\maria\OneDrive\Desktop\respaldo2\Universidad\5to sem\TaskFlow\TaskFlow\bin\Debug\Proyecto_Agenda_RamirezBenjamin_MauricioChad.exe.config
+C:\Users\maria\OneDrive\Desktop\respaldo2\Universidad\5to sem\TaskFlow\TaskFlow\bin\Debug\Proyecto_Agenda_RamirezBenjamin_MauricioChad.exe
+C:\Users\maria\OneDrive\Desktop\respaldo2\Universidad\5to sem\TaskFlow\TaskFlow\bin\Debug\Proyecto_Agenda_RamirezBenjamin_MauricioChad.pdb
+C:\Users\maria\OneDrive\Desktop\respaldo2\Universidad\5to sem\TaskFlow\TaskFlow\bin\Debug\Spire.Pdf.dll
+C:\Users\maria\OneDrive\Desktop\respaldo2\Universidad\5to sem\TaskFlow\TaskFlow\bin\Debug\Spire.PdfViewer.Asp.dll
+C:\Users\maria\OneDrive\Desktop\respaldo2\Universidad\5to sem\TaskFlow\TaskFlow\bin\Debug\Spire.PdfViewer.Forms.dll
+C:\Users\maria\OneDrive\Desktop\respaldo2\Universidad\5to sem\TaskFlow\TaskFlow\bin\Debug\Microsoft.mshtml.dll
+C:\Users\maria\OneDrive\Desktop\respaldo2\Universidad\5to sem\TaskFlow\TaskFlow\bin\Debug\Spire.Pdf.xml
+C:\Users\maria\OneDrive\Desktop\respaldo2\Universidad\5to sem\TaskFlow\TaskFlow\bin\Debug\Spire.PdfViewer.Asp.xml
+C:\Users\maria\OneDrive\Desktop\respaldo2\Universidad\5to sem\TaskFlow\TaskFlow\bin\Debug\Spire.PdfViewer.Forms.xml
+C:\Users\maria\OneDrive\Desktop\respaldo2\Universidad\5to sem\TaskFlow\TaskFlow\obj\Debug\Proyecto_Agenda_RamirezBenjamin_MauricioChad.csproj.AssemblyReference.cache
+C:\Users\maria\OneDrive\Desktop\respaldo2\Universidad\5to sem\TaskFlow\TaskFlow\obj\Debug\Proyecto_Agenda_RamirezBenjamin_MauricioChad.Form1.resources
+C:\Users\maria\OneDrive\Desktop\respaldo2\Universidad\5to sem\TaskFlow\TaskFlow\obj\Debug\Proyecto_Agenda_RamirezBenjamin_MauricioChad.VentanaLogIn.resources
+C:\Users\maria\OneDrive\Desktop\respaldo2\Universidad\5to sem\TaskFlow\TaskFlow\obj\Debug\Proyecto_Agenda_RamirezBenjamin_MauricioChad.Properties.Resources.resources
+C:\Users\maria\OneDrive\Desktop\respaldo2\Universidad\5to sem\TaskFlow\TaskFlow\obj\Debug\Proyecto_Agenda_RamirezBenjamin_MauricioChad.VenanaMiPerfil.resources
+C:\Users\maria\OneDrive\Desktop\respaldo2\Universidad\5to sem\TaskFlow\TaskFlow\obj\Debug\Proyecto_Agenda_RamirezBenjamin_MauricioChad.VentanaBorrarCita.resources
+C:\Users\maria\OneDrive\Desktop\respaldo2\Universidad\5to sem\TaskFlow\TaskFlow\obj\Debug\Proyecto_Agenda_RamirezBenjamin_MauricioChad.VentanaEliminarContacto.resources
+C:\Users\maria\OneDrive\Desktop\respaldo2\Universidad\5to sem\TaskFlow\TaskFlow\obj\Debug\Proyecto_Agenda_RamirezBenjamin_MauricioChad.VentanaMostrarCitas.resources
+C:\Users\maria\OneDrive\Desktop\respaldo2\Universidad\5to sem\TaskFlow\TaskFlow\obj\Debug\Proyecto_Agenda_RamirezBenjamin_MauricioChad.VentanaMostrarContactos.resources
+C:\Users\maria\OneDrive\Desktop\respaldo2\Universidad\5to sem\TaskFlow\TaskFlow\obj\Debug\Proyecto_Agenda_RamirezBenjamin_MauricioChad.VentanaNuevaCita.resources
+C:\Users\maria\OneDrive\Desktop\respaldo2\Universidad\5to sem\TaskFlow\TaskFlow\obj\Debug\Proyecto_Agenda_RamirezBenjamin_MauricioChad.VentanaNuevoContacto.resources
+C:\Users\maria\OneDrive\Desktop\respaldo2\Universidad\5to sem\TaskFlow\TaskFlow\obj\Debug\Proyecto_Agenda_RamirezBenjamin_MauricioChad.VentanaObservaciones.resources
+C:\Users\maria\OneDrive\Desktop\respaldo2\Universidad\5to sem\TaskFlow\TaskFlow\obj\Debug\Proyecto_Agenda_RamirezBenjamin_MauricioChad.VentanaTutorial2.resources
+C:\Users\maria\OneDrive\Desktop\respaldo2\Universidad\5to sem\TaskFlow\TaskFlow\obj\Debug\Proyecto_Agenda_RamirezBenjamin_MauricioChad.csproj.GenerateResource.cache
+C:\Users\maria\OneDrive\Desktop\respaldo2\Universidad\5to sem\TaskFlow\TaskFlow\obj\Debug\Proyecto_Agenda_RamirezBenjamin_MauricioChad.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Desktop\respaldo2\Universidad\5to sem\TaskFlow\TaskFlow\obj\Debug\Proyecto_Agenda_RamirezBenjamin_MauricioChad.csproj.CopyComplete
+C:\Users\maria\OneDrive\Desktop\respaldo2\Universidad\5to sem\TaskFlow\TaskFlow\obj\Debug\Proyecto_Agenda_RamirezBenjamin_MauricioChad.exe
+C:\Users\maria\OneDrive\Desktop\respaldo2\Universidad\5to sem\TaskFlow\TaskFlow\obj\Debug\Proyecto_Agenda_RamirezBenjamin_MauricioChad.pdb

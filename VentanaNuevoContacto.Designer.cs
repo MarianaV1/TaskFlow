@@ -156,15 +156,15 @@
 
         #endregion
 
-        private System.Windows.Forms.Label NuevoNombre;
-        private System.Windows.Forms.Label NuevoCorreo;
-        private System.Windows.Forms.Label NuevoTelefono;
-        private System.Windows.Forms.TextBox txtNuevoNombre;
-        private System.Windows.Forms.TextBox txtNuevoCorreo;
-        private System.Windows.Forms.TextBox txtNuevoTelefono;
-        private System.Windows.Forms.Button AceptarContacto;
-        private System.Windows.Forms.Button BtnSalirNuevoContacto;
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.ComboBox cmbRol;
+        public System.Windows.Forms.Label NuevoNombre;
+        public System.Windows.Forms.Label NuevoCorreo;
+        public System.Windows.Forms.Label NuevoTelefono;
+        public System.Windows.Forms.TextBox txtNuevoNombre;
+        public System.Windows.Forms.TextBox txtNuevoCorreo;
+        public System.Windows.Forms.TextBox txtNuevoTelefono;
+        public System.Windows.Forms.Button AceptarContacto;
+        public System.Windows.Forms.Button BtnSalirNuevoContacto;
+        public System.Windows.Forms.Label label1;
+        public System.Windows.Forms.ComboBox cmbRol;
     }
 }
